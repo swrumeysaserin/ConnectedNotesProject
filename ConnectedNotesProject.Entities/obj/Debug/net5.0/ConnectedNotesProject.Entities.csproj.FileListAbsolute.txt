@@ -1,0 +1,15 @@
+C:\ConnectedNotesProject.API\ConnectedNotesProject.Entities\bin\Debug\net5.0\ConnectedNotesProject.Entities.deps.json
+C:\ConnectedNotesProject.API\ConnectedNotesProject.Entities\bin\Debug\net5.0\ConnectedNotesProject.Entities.runtimeconfig.json
+C:\ConnectedNotesProject.API\ConnectedNotesProject.Entities\bin\Debug\net5.0\ConnectedNotesProject.Entities.runtimeconfig.dev.json
+C:\ConnectedNotesProject.API\ConnectedNotesProject.Entities\bin\Debug\net5.0\ConnectedNotesProject.Entities.dll
+C:\ConnectedNotesProject.API\ConnectedNotesProject.Entities\bin\Debug\net5.0\ref\ConnectedNotesProject.Entities.dll
+C:\ConnectedNotesProject.API\ConnectedNotesProject.Entities\bin\Debug\net5.0\ConnectedNotesProject.Entities.pdb
+C:\ConnectedNotesProject.API\ConnectedNotesProject.Entities\obj\Debug\net5.0\ConnectedNotesProject.Entities.csproj.AssemblyReference.cache
+C:\ConnectedNotesProject.API\ConnectedNotesProject.Entities\obj\Debug\net5.0\ConnectedNotesProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConnectedNotesProject.API\ConnectedNotesProject.Entities\obj\Debug\net5.0\ConnectedNotesProject.Entities.AssemblyInfoInputs.cache
+C:\ConnectedNotesProject.API\ConnectedNotesProject.Entities\obj\Debug\net5.0\ConnectedNotesProject.Entities.AssemblyInfo.cs
+C:\ConnectedNotesProject.API\ConnectedNotesProject.Entities\obj\Debug\net5.0\ConnectedNotesProject.Entities.csproj.CoreCompileInputs.cache
+C:\ConnectedNotesProject.API\ConnectedNotesProject.Entities\obj\Debug\net5.0\ConnectedNotesProject.Entities.dll
+C:\ConnectedNotesProject.API\ConnectedNotesProject.Entities\obj\Debug\net5.0\ref\ConnectedNotesProject.Entities.dll
+C:\ConnectedNotesProject.API\ConnectedNotesProject.Entities\obj\Debug\net5.0\ConnectedNotesProject.Entities.pdb
+C:\ConnectedNotesProject.API\ConnectedNotesProject.Entities\obj\Debug\net5.0\ConnectedNotesProject.Entities.genruntimeconfig.cache
